@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+$$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# Data files
+data/
+
+# macOS
+.DS_Store
+
+# Databricks specific
+.dbx/
+.databricks/

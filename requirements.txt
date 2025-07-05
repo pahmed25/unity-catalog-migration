@@ -1,0 +1,9 @@
+﻿# This file lists the Python packages required by the project.
+# You can install them all by running:
+# pip install -r requirements.txt
+
+pandas
+numpy
+pyspark
+delta-spark
+boto3

@@ -7,3 +7,4 @@ numpy
 pyspark
 delta-spark
 boto3
+pytest
